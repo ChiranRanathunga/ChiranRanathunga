@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 [![@chiranranathunga's Holopin board](https://holopin.io/api/user/board?user=chiranranathunga)](https://holopin.io/@chiranranathunga)
 
-
-ABC Programmer
